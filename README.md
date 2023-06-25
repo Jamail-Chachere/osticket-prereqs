@@ -29,18 +29,18 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://imgur.com/a/lp0yQxD" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/gdhlZ1U" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Create a resource group in Azure. And asign it an appropriate name.
+Create a resource group in Azure. And assign it an appropriate name.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/4Ii7p9F" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Create a Windows Virtual Machine with 2 0r 4 cpu cores
 </p>
 <br />
 
